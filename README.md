@@ -1,5 +1,5 @@
-# FIDAGAIN
-Another one for FID because I didn't read the instructions thoroughly. 
+# Ooh.
+Hello there.
 
 This repository is for everything I'll be doing in Fundamentals of Interactive Design! **BOLD BABY BOLD**. 
 *My main goal is to force everyone who dares cast their eyes upon my code to feel immense cringe.* 
